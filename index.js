@@ -13,7 +13,7 @@
 const Alexa = require('alexa-sdk');
 const answers = require('./recipes');
 
-const APP_ID =  "amzn1.ask.skill.5426984a-7b5c-45dd-bf29-1476c7bdd831";
+const APP_ID =  undefined;
 
 const languageStrings = {
     'en': {
